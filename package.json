@@ -1,0 +1,30 @@
+{
+  "name": "project-1d-files-cli",
+  "version": "1.0.0",
+  "description": "Cli for create files",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damenor-courses/project-1d-cli-files.git"
+  },
+  "keywords": [
+    "cli",
+    "files"
+  ],
+  "author": "David Menor <damenor.develop@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/damenor-courses/project-1d-cli-files/issues"
+  },
+  "homepage": "https://github.com/damenor-courses/project-1d-cli-files#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "figlet": "^1.5.0",
+    "inquirer": "^7.3.3",
+    "shelljs": "^0.8.4"
+  }
+}
