@@ -1,6 +1,6 @@
 {
   "name": "project-1d-files-creator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Cli for create files",
   "main": "index.js",
   "bin": "./index.js",
