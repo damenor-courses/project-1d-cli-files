@@ -4,9 +4,6 @@
   "description": "Cli for create files",
   "main": "index.js",
   "bin": "./index.js",
-  "scripts": {
-    "test": "mocha"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/damenor-courses/project-1d-cli-files.git"
