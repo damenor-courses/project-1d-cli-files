@@ -1,4 +1,4 @@
-# project-1d-cli-files
+# project-1d-files-creator
 
 CLI for create files
 
@@ -6,12 +6,12 @@ CLI for create files
 
 * GLOBAL
 ```
-npm project-1d-files-cli -g
+npm project-1d-files-creator -g
 ```
 
 * LOCAL
 ```
-npm project-1d-files-cli
+npm project-1d-files-creator
 ```
 
 ## Use
@@ -19,7 +19,7 @@ npm project-1d-files-cli
 * GLOBAL
 ```
 // Launch in terminal
-project-1d-files-cli
+project-1d-files-creator
 ```
 
 * LOCAL
@@ -27,10 +27,10 @@ project-1d-files-cli
 
 // Add to package.json
 "scripts": {
-  "project-1d-cli-files": "./node_modules/.bin/project-1d-cli-files"
+  "project-1d-files-creator": "./node_modules/.bin/project-1d-files-creator"
 }
 
 // Launch in terminal
-npm run project-1d-files-cli
+npm run project-1d-files-creator
 
 ```
